@@ -2,8 +2,9 @@ matplotlib==3.6.0
 numpy==1.23.1
 pandas==1.4.3
 Pillow==9.2.0
-streamlit==1.12.2
 opencv-python-headless
 onnxruntime
 onnx
 torchvision
+streamlit>=1.26
+altair>=5.0.0
